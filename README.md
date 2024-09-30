@@ -1,1 +1,2 @@
 # Clothes-Recommendation-System-using-Knime
+The Clothes Recommendation system in KNIME will be recommending based on the description of each cloth in the data set. It will be analyzing the data in the dataset. The description of each product will be taken into consideration and once the input cloth is given then the descriptions of all products will be checked and similar products having similar description will be recommended. The main nodes used in the workflow is TF(Term Frequency) node and IDF(Inverse Document Frequency) node and Similarity Search node.
